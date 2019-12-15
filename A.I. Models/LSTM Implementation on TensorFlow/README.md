@@ -1,2 +1,3 @@
-LSTM Implementation on TensorFlow.
+**LSTM Implementation on TensorFlow.**
+
 Done for the sole purpose of Understanding.
